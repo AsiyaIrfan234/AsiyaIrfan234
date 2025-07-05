@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm Asiya Irfan
 
-<!--
-**AsiyaIrfan234/AsiyaIrfan234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 A passionate Frontend Developer | Crafting Clean & Creative Interfaces
 
-Here are some ideas to get you started:
+🔭 I’m currently working on building beautiful & responsive websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Python, Artificial Intelligence & Web Development
+
+👯 I’m looking to collaborate on frontend and AI-based projects
+
+💬 Ask me about HTML, CSS, JavaScript, React, Next.js
+
+📫 How to reach me: asiyairfan234@gmail.com
+
+⚡ Fun fact: I wanted to become a computer geek... but now that I am, I think being human was just fine! 💻🤯😅

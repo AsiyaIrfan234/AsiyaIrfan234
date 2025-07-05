@@ -8,7 +8,7 @@ Hi 👋, I'm Asiya Irfan
 
 👯 I’m looking to collaborate on frontend and AI-based projects
 
-💬 Ask me about HTML, CSS, JavaScript, React, Next.js
+💬 Ask me about HTML, CSS, JavaScript, React, Next.js, tailwind css, node.js, python, typescript
 
 📫 How to reach me: asiyairfan234@gmail.com
 
